@@ -1,0 +1,15 @@
+.map {
+    height: auto;
+    width: 80%;
+    border: #c06;
+  }
+
+
+  .con {
+    border-radius: 5px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    height: 100%;
+  }
+  
